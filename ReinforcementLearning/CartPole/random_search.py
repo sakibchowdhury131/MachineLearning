@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# Author: Sakib Chowdhury
 
 import numpy as np
 import gym 
